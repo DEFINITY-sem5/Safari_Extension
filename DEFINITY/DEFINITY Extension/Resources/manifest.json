@@ -1,0 +1,40 @@
+{
+    "manifest_version": 2,
+  
+    "name": "DEFINITY",
+    "description": "This extension will analyze a page, and show up if any fake news is detected",
+    "version": "1.0",
+    "default_locale": "en",
+    "background" : {
+        "scripts" : ["js/background.js"],
+        "persistent": false
+    },
+    "browser_action": {
+     "default_icon" : "assets/icon/128.png",
+     "default_title" : "DEFINITY",
+     "default_popup": "popup.html"
+    },
+    "icons" : {
+        "36" : "assets/icon/36.png",
+        "48" : "assets/icon/48.png",
+        "72" : "assets/icon/72.png",
+        "128" : "assets/icon/128.png",
+        "256" : "assets/icon/256.png"
+    },
+    "content_scripts" : [
+        {
+            "matches" : [
+                "http://*/*",
+                "https://*/*"
+            ],
+            "js" : [
+                "js/content.js"
+            ],
+            "run_at" : "document_end",
+            "all_frames" : false
+        }
+      ],
+    "permissions": [
+        "tabs"
+    ]
+}
