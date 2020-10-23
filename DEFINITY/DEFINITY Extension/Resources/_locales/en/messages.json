@@ -1,9 +1,5 @@
 {
     "extension_name": {
-        "message": "DEFINITY Extension",
-        "description": "The display name for the extension."
-    },
-    "extension_description": {
-        "description": "Description of what the extension does."
+        "message": "DEFINITY"
     }
 }
