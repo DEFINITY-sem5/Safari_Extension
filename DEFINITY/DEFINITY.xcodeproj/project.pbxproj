@@ -19,6 +19,26 @@
 		9F1EAAA725431CB4007643F6 /* manifest.json in Resources */ = {isa = PBXBuildFile; fileRef = 9F1EAAA625431CB4007643F6 /* manifest.json */; };
 		9F1EAAAD25431CB4007643F6 /* popup.html in Resources */ = {isa = PBXBuildFile; fileRef = 9F1EAAAC25431CB4007643F6 /* popup.html */; };
 		9F1EAAAF25431CB4007643F6 /* popup.css in Resources */ = {isa = PBXBuildFile; fileRef = 9F1EAAAE25431CB4007643F6 /* popup.css */; };
+		9F779658255D883E00F18F0A /* 1.js in Sources */ = {isa = PBXBuildFile; fileRef = 9F779657255D883E00F18F0A /* 1.js */; };
+		9F779660255D886800F18F0A /* bootstrap.css.map in Sources */ = {isa = PBXBuildFile; fileRef = 9F77965F255D886800F18F0A /* bootstrap.css.map */; };
+		9F779666255D889000F18F0A /* bootstrap.css in Resources */ = {isa = PBXBuildFile; fileRef = 9F779665255D889000F18F0A /* bootstrap.css */; };
+		9F77966A255D88BE00F18F0A /* bootstrap-reboot.min.css.map in Sources */ = {isa = PBXBuildFile; fileRef = 9F779669255D88BE00F18F0A /* bootstrap-reboot.min.css.map */; };
+		9F779670255D88DD00F18F0A /* bootstrap-reboot.min.css in Resources */ = {isa = PBXBuildFile; fileRef = 9F77966F255D88DD00F18F0A /* bootstrap-reboot.min.css */; };
+		9F779674255D891200F18F0A /* bootstrap-reboot.css.map in Sources */ = {isa = PBXBuildFile; fileRef = 9F779673255D891200F18F0A /* bootstrap-reboot.css.map */; };
+		9F77967A255D893100F18F0A /* bootstrap-reboot.css in Resources */ = {isa = PBXBuildFile; fileRef = 9F779679255D893100F18F0A /* bootstrap-reboot.css */; };
+		9F77967E255D895100F18F0A /* bootstrap-grid.min.css.map in Sources */ = {isa = PBXBuildFile; fileRef = 9F77967D255D895100F18F0A /* bootstrap-grid.min.css.map */; };
+		9F779684255D898C00F18F0A /* bootstrap-grid.min.css in Resources */ = {isa = PBXBuildFile; fileRef = 9F779683255D898C00F18F0A /* bootstrap-grid.min.css */; };
+		9F779690255D89D200F18F0A /* bootstrap-grid.css.map in Sources */ = {isa = PBXBuildFile; fileRef = 9F77968F255D89D200F18F0A /* bootstrap-grid.css.map */; };
+		9F779694255D89E800F18F0A /* bootstrap-grid.css in Resources */ = {isa = PBXBuildFile; fileRef = 9F779693255D89E800F18F0A /* bootstrap-grid.css */; };
+		9F77969A255D8A1600F18F0A /* bootstrap.bundle.js in Resources */ = {isa = PBXBuildFile; fileRef = 9F779699255D8A1600F18F0A /* bootstrap.bundle.js */; };
+		9F77969E255D8A3200F18F0A /* bootstrap.bundle.js.map in Sources */ = {isa = PBXBuildFile; fileRef = 9F77969D255D8A3200F18F0A /* bootstrap.bundle.js.map */; };
+		9F7796A4255D8A5100F18F0A /* bootstrap.bundle.min.js in Resources */ = {isa = PBXBuildFile; fileRef = 9F7796A3255D8A5100F18F0A /* bootstrap.bundle.min.js */; };
+		9F7796A8255D8FA500F18F0A /* bootstrap.bundle.min.js.map in Sources */ = {isa = PBXBuildFile; fileRef = 9F7796A7255D8FA500F18F0A /* bootstrap.bundle.min.js.map */; };
+		9F7796AE255D8FBD00F18F0A /* bootstrap.js in Resources */ = {isa = PBXBuildFile; fileRef = 9F7796AD255D8FBD00F18F0A /* bootstrap.js */; };
+		9F7796B2255D8FCF00F18F0A /* bootstrap.js.map in Sources */ = {isa = PBXBuildFile; fileRef = 9F7796B1255D8FCF00F18F0A /* bootstrap.js.map */; };
+		9F7796B8255D8FEE00F18F0A /* bootstrap.min.js in Resources */ = {isa = PBXBuildFile; fileRef = 9F7796B7255D8FEE00F18F0A /* bootstrap.min.js */; };
+		9F7796BC255D902400F18F0A /* bootstrap.min.js.map in Sources */ = {isa = PBXBuildFile; fileRef = 9F7796BB255D902400F18F0A /* bootstrap.min.js.map */; };
+		9F7796C2255D903F00F18F0A /* jquery.js in Resources */ = {isa = PBXBuildFile; fileRef = 9F7796C1255D903F00F18F0A /* jquery.js */; };
 		9FF7146E255D83DC00900281 /* bootstrap.min.css.map in Sources */ = {isa = PBXBuildFile; fileRef = 9FF7146D255D83DC00900281 /* bootstrap.min.css.map */; };
 		9FF71476255D840800900281 /* bootstrap.min.css in Sources */ = {isa = PBXBuildFile; fileRef = 9FF71475255D840800900281 /* bootstrap.min.css */; };
 /* End PBXBuildFile section */
@@ -65,6 +85,26 @@
 		9F1EAAAE25431CB4007643F6 /* popup.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = popup.css; sourceTree = "<group>"; };
 		9F1EAAB225431CB4007643F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9F1EAAB325431CB4007643F6 /* DEFINITY_Extension.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = DEFINITY_Extension.entitlements; sourceTree = "<group>"; };
+		9F779657255D883E00F18F0A /* 1.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = 1.js; sourceTree = "<group>"; };
+		9F77965F255D886800F18F0A /* bootstrap.css.map */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.module-map"; path = bootstrap.css.map; sourceTree = "<group>"; };
+		9F779665255D889000F18F0A /* bootstrap.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = bootstrap.css; sourceTree = "<group>"; };
+		9F779669255D88BE00F18F0A /* bootstrap-reboot.min.css.map */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.module-map"; path = "bootstrap-reboot.min.css.map"; sourceTree = "<group>"; };
+		9F77966F255D88DD00F18F0A /* bootstrap-reboot.min.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = "bootstrap-reboot.min.css"; sourceTree = "<group>"; };
+		9F779673255D891200F18F0A /* bootstrap-reboot.css.map */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.module-map"; path = "bootstrap-reboot.css.map"; sourceTree = "<group>"; };
+		9F779679255D893100F18F0A /* bootstrap-reboot.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = "bootstrap-reboot.css"; sourceTree = "<group>"; };
+		9F77967D255D895100F18F0A /* bootstrap-grid.min.css.map */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.module-map"; path = "bootstrap-grid.min.css.map"; sourceTree = "<group>"; };
+		9F779683255D898C00F18F0A /* bootstrap-grid.min.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = "bootstrap-grid.min.css"; sourceTree = "<group>"; };
+		9F77968F255D89D200F18F0A /* bootstrap-grid.css.map */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.module-map"; path = "bootstrap-grid.css.map"; sourceTree = "<group>"; };
+		9F779693255D89E800F18F0A /* bootstrap-grid.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = "bootstrap-grid.css"; sourceTree = "<group>"; };
+		9F779699255D8A1600F18F0A /* bootstrap.bundle.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = bootstrap.bundle.js; sourceTree = "<group>"; };
+		9F77969D255D8A3200F18F0A /* bootstrap.bundle.js.map */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.module-map"; path = bootstrap.bundle.js.map; sourceTree = "<group>"; };
+		9F7796A3255D8A5100F18F0A /* bootstrap.bundle.min.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = bootstrap.bundle.min.js; sourceTree = "<group>"; };
+		9F7796A7255D8FA500F18F0A /* bootstrap.bundle.min.js.map */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.module-map"; path = bootstrap.bundle.min.js.map; sourceTree = "<group>"; };
+		9F7796AD255D8FBD00F18F0A /* bootstrap.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = bootstrap.js; sourceTree = "<group>"; };
+		9F7796B1255D8FCF00F18F0A /* bootstrap.js.map */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.module-map"; path = bootstrap.js.map; sourceTree = "<group>"; };
+		9F7796B7255D8FEE00F18F0A /* bootstrap.min.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = bootstrap.min.js; sourceTree = "<group>"; };
+		9F7796BB255D902400F18F0A /* bootstrap.min.js.map */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.module-map"; path = bootstrap.min.js.map; sourceTree = "<group>"; };
+		9F7796C1255D903F00F18F0A /* jquery.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = jquery.js; sourceTree = "<group>"; };
 		9FF7146D255D83DC00900281 /* bootstrap.min.css.map */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.module-map"; path = bootstrap.min.css.map; sourceTree = "<group>"; };
 		9FF71475255D840800900281 /* bootstrap.min.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = bootstrap.min.css; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -155,6 +195,16 @@
 		9F1EAABF25431D61007643F6 /* js */ = {
 			isa = PBXGroup;
 			children = (
+				9F779657255D883E00F18F0A /* 1.js */,
+				9F779699255D8A1600F18F0A /* bootstrap.bundle.js */,
+				9F77969D255D8A3200F18F0A /* bootstrap.bundle.js.map */,
+				9F7796A3255D8A5100F18F0A /* bootstrap.bundle.min.js */,
+				9F7796A7255D8FA500F18F0A /* bootstrap.bundle.min.js.map */,
+				9F7796AD255D8FBD00F18F0A /* bootstrap.js */,
+				9F7796B1255D8FCF00F18F0A /* bootstrap.js.map */,
+				9F7796B7255D8FEE00F18F0A /* bootstrap.min.js */,
+				9F7796BB255D902400F18F0A /* bootstrap.min.js.map */,
+				9F7796C1255D903F00F18F0A /* jquery.js */,
 			);
 			path = js;
 			sourceTree = "<group>";
@@ -165,6 +215,16 @@
 				9F1EAAAE25431CB4007643F6 /* popup.css */,
 				9FF7146D255D83DC00900281 /* bootstrap.min.css.map */,
 				9FF71475255D840800900281 /* bootstrap.min.css */,
+				9F77965F255D886800F18F0A /* bootstrap.css.map */,
+				9F779665255D889000F18F0A /* bootstrap.css */,
+				9F779669255D88BE00F18F0A /* bootstrap-reboot.min.css.map */,
+				9F77966F255D88DD00F18F0A /* bootstrap-reboot.min.css */,
+				9F779673255D891200F18F0A /* bootstrap-reboot.css.map */,
+				9F779679255D893100F18F0A /* bootstrap-reboot.css */,
+				9F77967D255D895100F18F0A /* bootstrap-grid.min.css.map */,
+				9F779683255D898C00F18F0A /* bootstrap-grid.min.css */,
+				9F77968F255D89D200F18F0A /* bootstrap-grid.css.map */,
+				9F779693255D89E800F18F0A /* bootstrap-grid.css */,
 			);
 			path = css;
 			sourceTree = "<group>";
@@ -266,10 +326,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9F7796C2255D903F00F18F0A /* jquery.js in Resources */,
+				9F779684255D898C00F18F0A /* bootstrap-grid.min.css in Resources */,
 				9F1EAAAF25431CB4007643F6 /* popup.css in Resources */,
+				9F77967A255D893100F18F0A /* bootstrap-reboot.css in Resources */,
+				9F779670255D88DD00F18F0A /* bootstrap-reboot.min.css in Resources */,
+				9F77969A255D8A1600F18F0A /* bootstrap.bundle.js in Resources */,
 				9F1EAAAD25431CB4007643F6 /* popup.html in Resources */,
+				9F7796A4255D8A5100F18F0A /* bootstrap.bundle.min.js in Resources */,
+				9F7796AE255D8FBD00F18F0A /* bootstrap.js in Resources */,
 				9F1EAAA525431CB4007643F6 /* icon in Resources */,
 				9F1EAAA725431CB4007643F6 /* manifest.json in Resources */,
+				9F779666255D889000F18F0A /* bootstrap.css in Resources */,
+				9F7796B8255D8FEE00F18F0A /* bootstrap.min.js in Resources */,
+				9F779694255D89E800F18F0A /* bootstrap-grid.css in Resources */,
 				9F1EAAA325431CB4007643F6 /* _locales in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -290,9 +360,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9F779674255D891200F18F0A /* bootstrap-reboot.css.map in Sources */,
+				9F779690255D89D200F18F0A /* bootstrap-grid.css.map in Sources */,
+				9F77966A255D88BE00F18F0A /* bootstrap-reboot.min.css.map in Sources */,
+				9F77967E255D895100F18F0A /* bootstrap-grid.min.css.map in Sources */,
 				9F1EAAA025431CB4007643F6 /* SafariWebExtensionHandler.swift in Sources */,
+				9F7796A8255D8FA500F18F0A /* bootstrap.bundle.min.js.map in Sources */,
+				9F77969E255D8A3200F18F0A /* bootstrap.bundle.js.map in Sources */,
+				9F779660255D886800F18F0A /* bootstrap.css.map in Sources */,
 				9FF71476255D840800900281 /* bootstrap.min.css in Sources */,
 				9FF7146E255D83DC00900281 /* bootstrap.min.css.map in Sources */,
+				9F7796B2255D8FCF00F18F0A /* bootstrap.js.map in Sources */,
+				9F7796BC255D902400F18F0A /* bootstrap.min.js.map in Sources */,
+				9F779658255D883E00F18F0A /* 1.js in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
