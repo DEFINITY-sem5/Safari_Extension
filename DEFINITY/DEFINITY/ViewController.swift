@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  DEFINITY
 //
-//  Created by REGATTE on 23/10/20.
+//  Created by REGATTE on 14/11/20.
 //
 
 import Cocoa
@@ -10,7 +10,7 @@ import SafariServices.SFSafariApplication
 import SafariServices.SFSafariExtensionManager
 
 let appName = "DEFINITY"
-let extensionBundleIdentifier = "REGATTE.DEFINITY-Extension"
+let extensionBundleIdentifier = "DEFINITY.DEFINITY.Extension"
 
 class ViewController: NSViewController {
 

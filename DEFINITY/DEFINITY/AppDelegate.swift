@@ -2,20 +2,24 @@
 //  AppDelegate.swift
 //  DEFINITY
 //
-//  Created by REGATTE on 23/10/20.
+//  Created by REGATTE on 14/11/20.
 //
 
 import Cocoa
 
-@NSApplicationMain
+@main
 class AppDelegate: NSObject, NSApplicationDelegate {
-    
-    func applicationDidFinishLaunching(_ aNotification: Notification) {
+
+    func applicationDidFinishLaunching(_ notification: Notification) {
         // Insert code here to initialize your application
     }
-    
-    func applicationWillTerminate(_ aNotification: Notification) {
+
+    func applicationWillTerminate(_ notification: Notification) {
         // Insert code here to tear down your application
     }
-    
+
+    func applicationShouldTerminateAfterLastWindowClosed(_ sender: NSApplication) -> Bool {
+        return true
+    }
+
 }

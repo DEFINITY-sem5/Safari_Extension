@@ -2,7 +2,7 @@
 //  SafariWebExtensionHandler.swift
 //  DEFINITY Extension
 //
-//  Created by REGATTE on 23/10/20.
+//  Created by REGATTE on 14/11/20.
 //
 
 import SafariServices
